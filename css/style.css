@@ -93,7 +93,7 @@ nav a {
 .top-section {
    
     height: 65vh !important;
-    min-height: 520px;
+    min-height: 520px !important;
 }
 
 section:first-child {
@@ -242,7 +242,7 @@ padding: 2px;
 }
 
 .link:hover {
-    transform: scale(1.01);
+    transform: scale(1.04);
 }
 
 .link img {
